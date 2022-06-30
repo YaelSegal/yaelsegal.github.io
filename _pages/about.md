@@ -16,7 +16,7 @@ machine-learning, deep-learning and their applications in detection and localiza
 
 Publications
 ====
-- DDKtor: Automatic diadochokinetic speech analysis. _**Yael Segal**, Kasia Hitczenko, Matthew Goldrick, Adam Buchwald, Angela Roberts and Joseph Keshet_. (INTERSPEECH 2022).[Code](https://github.com/MLSpeech/DDKtor).
+- [DDKtor: Automatic diadochokinetic speech analysis](http://arxiv.org/abs/2206.14639). _**Yael Segal**, Kasia Hitczenko, Matthew Goldrick, Adam Buchwald, Angela Roberts and Joseph Keshet_. (INTERSPEECH 2022). [Code](https://github.com/MLSpeech/DDKtor).
 - [DeepFry: Identifying Vocal Fry Using Deep Neural Networks](https://arxiv.org/abs/2203.17019). _Bronya R. Chernyak*, Talia Ben Simon*, **Yael Segal***, Jeremy Steffman, Eleanor Chodroff, Jennifer S. Cole, Joseph Keshet_. (INTERSPEECH 2022).
 - [Pitch Estimation by Multiple Octave Decoders](https://ieeexplore.ieee.org/document/9501499). _**Yael Segal**, May Arama-Chayoth, Joseph Keshet_. IEEE Signal Processing Letters, vol. 28, pp. 1610-1614, 2021, doi: 10.1109/LSP.2021.3100812.
 - [CNN-based Spoken Term Detection and Localization without Dynamic Programming](https://arxiv.org/pdf/2103.05468.pdf). _Tzeviya Sylvia Fuchs*, **Yael Segal***, Joseph Keshet_.  The 46th IEEE International Conference in Acoustic, Speech and Signal Processing (ICASSP), 2021, [Paper](https://arxiv.org/pdf/2103.05468.pdf).
