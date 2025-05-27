@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yael Segal"
+title                    : "Yael Segal-Feldman"
 title_separator          : "-"
-name                     : &name "Yael Segal"
-description              : &description "Computer Science Ph.D Candidate @ Bar-Ilan University"
+name                     : &name "Yael Segal-Feldman"
+description              : &description "Ph.D., AI Researcher, aiOla"
 url                      : https://yaelsegal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "YaelSegal/yaelsegal.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yael Segal"
+  name             : "Yael Segal-Feldman"
   avatar           : "profile.png"
-  bio              : "Computer Science Ph.D Candidate @ Technion–Israel Institute of Technology"
+  bio              : "Ph.D., AI Researcher, aiOla"
   location         : "Israel"
   employer         :
   pubmed           : 
